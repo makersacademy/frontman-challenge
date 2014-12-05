@@ -8,7 +8,11 @@ Frontman Challenge
 Challenge:
 -------
 
-Reimplement the Twitter.com feed page as close as possible to the real look and feel. This is what a Twitter feed page looks like:http://cl.ly/image/1E06372z3x34. You will need a Twitter account to do this task because you'll be inspecting the structure of the real Twitter feed to understand how it's done.
+Reimplement the Twitter.com feed page as close as possible to the real look and feel. This is what a Twitter feed page looks like: 
+
+![screenshot](/images/screenshot.png)
+
+You will need a Twitter account to do this task because you'll be inspecting the structure of the real Twitter feed to understand how it's done.
 
 The goal of this exercise is to test your front-end skills. Don't worry about the backend at all. You are expected to produce only HTML, CSS and JS files. Do not build a Sinatra application. The resulting file should look as close to the real Twitter feed as possible.
 
