@@ -18,7 +18,8 @@ You will need a Twitter account to do this task because you'll be inspecting the
 
 The goal of this exercise is to test your front-end skills. Don't worry about the backend at all. You are expected to produce only HTML, CSS and JS files. Do not build a Sinatra application. The resulting file should look as close to the real Twitter feed as possible.
 
-##You will not get your badge if we find a `<div>` tag.
+##You will not get your badge if we find a `<div>` tag*
+__*unless you can justify it
 
 Why? Because the world has moved on from the lowly `<div>` to richer, more meaningful HTML5 tags. These tags mean better  So use them! Here are some resources to get you started:
 
@@ -26,6 +27,10 @@ Why? Because the world has moved on from the lowly `<div>` to richer, more meani
 * [Article explaining the benefits of HTML5](http://robertnyman.com/2007/10/29/explaining-semantic-mark-up/)
 * [Slightly less dry explanations of each tag](https://developer.mozilla.org/en/docs/Web/Guide/HTML/HTML5/HTML5_element_list)
 * [Visual example](http://blogs.msdn.com/b/jennifer/archive/2011/08/01/html5-part-1-semantic-markup-and-page-layout.aspx)
+
+And for those who don't like reading, here's an easy to use flowchart:
+
+![HTML5 flowchart](http://html5doctor.com/downloads/h5d-sectioning-flowchart.png)
 
 
 Goal 1 
