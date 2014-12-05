@@ -39,4 +39,4 @@ Make it responsive. Notice that Twitter has very few responsive features other t
 
 There's no definite pass/fail mark in this exercise. Rather, the teachers will use their best judgement to decide if the page really does look and feel like Twitter.
 
-Good luck :)
+__Good luck :)__
