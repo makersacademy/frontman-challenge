@@ -10,7 +10,7 @@ Challenge:
 
 Reimplement the Twitter.com feed page as close as possible to the real look and feel. This is what a Twitter feed page looks like: 
 
-![screenshot](/images/screenshot.png)
+![screenshot](images/screenshot.png)
 
 You will need a Twitter account to do this task because you'll be inspecting the structure of the real Twitter feed to understand how it's done.
 
