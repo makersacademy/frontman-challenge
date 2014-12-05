@@ -19,7 +19,7 @@ You will need a Twitter account to do this task because you'll be inspecting the
 The goal of this exercise is to test your front-end skills. Don't worry about the backend at all. You are expected to produce only HTML, CSS and JS files. Do not build a Sinatra application. The resulting file should look as close to the real Twitter feed as possible.
 
 ##You will not get your badge if we find a `<div>` tag*
-__*unless you can justify it
+__*unless you can justify it__
 
 Why? Because the world has moved on from the lowly `<div>` to richer, more meaningful HTML5 tags. These tags mean better  So use them! Here are some resources to get you started:
 
