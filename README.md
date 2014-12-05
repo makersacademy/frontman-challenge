@@ -12,7 +12,7 @@ Reimplement the Twitter.com feed page as close as possible to the real look and 
 
 ![screenshot](https://raw.githubusercontent.com/makersacademy/frontman-challenge/master/images/frontman-screenshot.png?token=AG-Bb_uqwykeW1JiAYpvYOHc15GKnZ5tks5UisNkwA%3D%3D)
 
-(feel free to customize Nikesh's interesting colour choices)
+_(feel free to customize Nikesh's non-standard colour choices!)_
 
 You will need a Twitter account to do this task because you'll be inspecting the structure of the real Twitter feed to understand how it's done.
 
