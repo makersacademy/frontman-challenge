@@ -25,7 +25,7 @@ Why? Because the world has moved on from the lowly `<div>` to richer, more meani
 
 * [MDN HTML5 element list](https://developer.mozilla.org/en/docs/Web/Guide/HTML/HTML5/HTML5_element_list)  
 * [Article explaining the benefits of HTML5](http://robertnyman.com/2007/10/29/explaining-semantic-mark-up/)
-* [Slightly less dry explanations of each tag](https://developer.mozilla.org/en/docs/Web/Guide/HTML/HTML5/HTML5_element_list)
+* [Slightly less dry explanations of each tag](http://diveintohtml5.info/semantics.html#new-elements)
 * [Visual example](http://blogs.msdn.com/b/jennifer/archive/2011/08/01/html5-part-1-semantic-markup-and-page-layout.aspx)
 
 And for those who don't like reading, here's an easy to use flowchart:
