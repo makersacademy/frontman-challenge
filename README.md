@@ -10,7 +10,7 @@ Challenge:
 
 Reimplement the Twitter.com feed page as close as possible to the real look and feel. This is what a Twitter feed page looks like: 
 
-![screenshot](https://raw.githubusercontent.com/makersacademy/frontman-challenge/master/images/frontman-screenshot.png?token=AG-Bb_uqwykeW1JiAYpvYOHc15GKnZ5tks5UisNkwA%3D%3D)
+![screenshot](/images/frontman-screenshot.png)
 
 _(feel free to customize Nikesh's non-standard colour choices!)_
 
