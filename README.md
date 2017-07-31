@@ -1,7 +1,6 @@
 Frontman Challenge
 ==================
 
-* Challenge time: Friday afternoon (+ weekend if you need it)
 * Use everything you need but no using 'bootstrap' or similar front-end frameworks. Copy-pasting code from Twitter.com is cheating! However, feel free to inspect its HTML, JS and CSS code.
 
 
