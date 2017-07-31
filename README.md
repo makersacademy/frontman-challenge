@@ -2,7 +2,7 @@ Frontman Challenge
 ==================
 
 * Challenge time: Friday afternoon (+ weekend if you need it)
-* Use everything you need but copy-pasting code from Twitter.com is cheating! However, feel free to inspect its HTML, JS and CSS code.
+* Use everything you need but no using 'bootstrap' or similar front-end frameworks. Copy-pasting code from Twitter.com is cheating! However, feel free to inspect its HTML, JS and CSS code.
 
 
 Challenge:
@@ -18,10 +18,9 @@ You will need a Twitter account to do this task because you'll be inspecting the
 
 The goal of this exercise is to test your front-end skills. Don't worry about the backend at all. You are expected to produce only HTML, CSS and JS files. Do not build a Sinatra application. The resulting file should look as close to the real Twitter feed as possible.
 
-##You will not get your badge if we find a `<div>` tag*
-_*unless you have a very good reason for one_
+## Try not to use `<div>` tags except for purely structural elements
 
-Why? Because the world has moved on from the lowly `<div>` to richer, more meaningful HTML5 tags. These tags mean better  So use them! Here are some resources to get you started:
+Why? Because the world has moved on from the lowly `<div>` to richer, more meaningful HTML5 tags. These tags mean better accessibility - So use them! Here are some resources to get you started:
 
 * [MDN HTML5 element list](https://developer.mozilla.org/en/docs/Web/Guide/HTML/HTML5/HTML5_element_list)  
 * [Article explaining the benefits of HTML5](http://robertnyman.com/2007/10/29/explaining-semantic-mark-up/)
@@ -53,7 +52,5 @@ Goal 3
 ------
 
 Make it responsive. Notice that Twitter has very few responsive features other than resizing the search box and hiding the labels in the navigation bar. 
-
-There's no definite pass/fail mark in this exercise. Rather, the teachers will use their best judgement to decide if the page really does look and feel like Twitter.
 
 __Good luck :)__
